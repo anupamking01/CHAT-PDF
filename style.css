@@ -1,0 +1,66 @@
+/* Base styling for the overall page */
+
+body {
+
+    font-family: 'Arial', sans-serif;
+    color: rosybrown;
+    background-image: './images.jpg';
+    background-size: cover;
+    background-position: center;
+    
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* Styling for headings to ensure they stand out */
+h1, h2, h3 {
+    color: #ffccde;
+    text-shadow: 1px 1px 2px #000000;
+}
+
+/* Custom styles for Streamlit buttons to make them more appealing */
+button {
+    background-color: #008CBA; /* Blue button background */
+    border: none;
+    color: royalblue;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    transition-duration: 0.4s;
+}
+
+/* Button hover effects */
+button:hover {
+    background-color: #4CAF50; /* Green background on hover */
+}
+
+/* Styling for links to make them cohesive with the theme */
+a {
+    color: #aad8d3;
+    text-decoration: none;
+}
+
+/* Link hover effects */
+a:hover {
+    text-decoration: underline;
+}
+
+/* Input and textarea styling for better visibility */
+input[type="text"], textarea {
+    width: 98%;
+    color: rgb(0, 255, 153);
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+}
+
+/* Additional custom styles can be added below as needed */
