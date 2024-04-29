@@ -1,7 +1,6 @@
 # pdfGPT
 ## Demo
-1. **Demo URL**: https://bhaskartripathi-pdfgpt-turbo.hf.space
-2. **Demo Video**: https://www.loom.com/share/f2ae77974ac843bab1606367e16923ad
+1. **Demo Video**: https://www.loom.com/share/f2ae77974ac843bab1606367e16923ad
    
 #### Version Updates (27 July, 2023):
 1. Improved error handling
@@ -101,16 +100,6 @@ G -- K-Nearest Neighbour --> K[Get Nearest Neighbour - matching citation referen
 K -- Generate Prompt --> H[Generate Answer]
 H -- Output --> I[Output]
 ```
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=bhaskatripathi/pdfGPT&type=Date)](https://star-history.com/#bhaskatripathi/pdfGPT&Date)
-I am looking for more contributors from the open source community who can take up backlog items voluntarily and maintain the application jointly with me.
-
-## Also Try PyViralContent:
-Have you ever thought why your social media posts, blog, article, advertising, YouTube video, or other content don't go viral?
-I have published a new Python Package: pyviralcontent ! 🚀
-It predicts the virality of your content along with readability scores! It uses multiple sophisticated algorithms to calculate your content's readability score and its predict its viral probability using Multi Criteria Decision Analysis. 📈 Make your content strategy data-driven with pyviralcontent. Try it out and take your content's impact to the next level! 💥 
-
 ## License
 This project is licensed under the MIT License. See the [LICENSE.txt](LICENSE.txt) file for details.
 
@@ -118,11 +107,11 @@ This project is licensed under the MIT License. See the [LICENSE.txt](LICENSE.tx
 If you use PDF-GPT in your research or wish to refer to the examples in this repo, please cite with:
 
 ```bibtex
-@misc{pdfgpt2023,
-  author = {Bhaskar Tripathi},
+@misc{pdfgpt2024,
+  author = {Anupam Poddar},
   title = {PDF-GPT},
-  year = {2023},
+  year = {2024},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/bhaskatripathi/pdfGPT}}
+  howpublished = {\url{https://github.com/anupamking01/CHAT-PDF}}
 }
