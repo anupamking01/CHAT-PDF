@@ -1,7 +1,7 @@
 # pdfGPT
 ## Demo
 1. **Demo URL**: https://bhaskartripathi-pdfgpt-turbo.hf.space
-2. **Demo Video**:
+2. **Demo Video**: https://www.loom.com/share/f2ae77974ac843bab1606367e16923ad
    
 #### Version Updates (27 July, 2023):
 1. Improved error handling
